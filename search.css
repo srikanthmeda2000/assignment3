@@ -1,0 +1,40 @@
+/* .s {
+    margin-top: 2%;
+    margin-left: 5%;
+    width: 60%;
+}
+/* #sa{
+ width: 109px;
+ margin-left: 50%;
+ margin-bottom: 10%;
+} */
+/* h1{
+    margin-left: 10%;
+} */
+body {
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+.card {
+    margin: 3%;
+}
+
+p,
+h5 {
+    padding-left: 10px;
+}
+
+ #button{
+    width: 225%;
+} 
+.hd {
+    text-align: center;
+}
+
+.items {
+    margin: 27px;
+}
+h6{
+    font-weight: bold;
+}
